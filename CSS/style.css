@@ -1,0 +1,16 @@
+.carousel-item{
+    max-height: 80vh;
+    overflow: hidden;
+}
+
+.banner-section{
+    background-image: url(../Images/mesut-kaya-eOcyhe5-9sQ-unsplash.jpg);
+    background-size: cover;
+}
+
+.banner-section .row{
+     min-height: 40vh;
+}
+.navlink{
+    padding: 2px;
+}
